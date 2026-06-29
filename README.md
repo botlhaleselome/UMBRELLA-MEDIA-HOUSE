@@ -11,7 +11,7 @@
 
 ## 📖 About
 
-The **LiftedVeil Media Ecosystem** is an ambitious full-stack platform that combines two complementary brands under one digital ecosystem:
+The **Umbrella Media House Ecosystem** is an ambitious full-stack platform that combines two complementary brands under one digital ecosystem:
 
 ### 🎙️ LiftedVeilMedia
 
@@ -181,13 +181,13 @@ supabase/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/liftedveil-media.git
+git clone https://github.com/yourusername/UMBRELLA-MEDIA-HOUSE.git
 ```
 
 Navigate into the project
 
 ```bash
-cd liftedveil-media
+cd UMBRELLA-MEDIA-HOUSE
 ```
 
 Install dependencies
